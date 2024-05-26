@@ -5,7 +5,7 @@ from mastodon import Mastodon
 Register your app!
  This only needs to be done once (per server, or when distributing rather than hosting an application,
   most likely per device and server).
-  substitute in your information:
+  substitute in your information and run the file:
 """
 
 
