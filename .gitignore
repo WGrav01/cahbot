@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 # mastodon secrets file
+cahbot_client.secret
 cahbot_clientcred.secret
